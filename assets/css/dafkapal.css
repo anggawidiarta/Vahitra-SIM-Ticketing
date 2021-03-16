@@ -1,0 +1,15 @@
+#kapal{
+	margin-top: 100px
+}
+
+.col-lg-4 img{
+	width: 250px;
+	margin: auto;
+	width: 100%;
+	box-shadow: 0 2px 5px;
+}
+
+.col-lg-4 h3{
+	text-align: left;
+	font-size: 12pt;
+}
